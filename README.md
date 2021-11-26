@@ -5,7 +5,6 @@ My other fields of interest are :
   - Python
   - C++
   - NodeJS
-  - Image Processing
 
 ## Know More...
 | Codechef | https://www.codechef.com/users/priyavardhan12 | <br/>
